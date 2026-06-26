@@ -1,0 +1,26 @@
+id,text,fac_accuracy,suno_accuracy
+1,"Artificial intelligence is transforming the world by enabling machines to learn from data, recognize patterns, and make decisions with minimal human intervention.",86.36,54.55
+2,"Machine learning models are used in healthcare to predict patient outcomes, optimize treatment plans, and improve overall quality of care.",65.0,60.0
+3,The rise of renewable energy sources such as solar and wind power is crucial for reducing carbon emissions and combating climate change.,100.0,59.09
+4,"Blockchain technology provides a secure and decentralized way to record transactions, enabling cryptocurrencies and smart contracts to function.",77.78,72.22
+5,"Natural language processing allows computers to understand human language, enabling applications such as chatbots, translation, and sentiment analysis.",44.44,5.56
+6,"Autonomous vehicles rely on a combination of sensors, AI algorithms, and real-time data processing to navigate safely without human drivers.",85.0,75.0
+7,"Big data analytics allows organizations to extract meaningful insights from large datasets, improving decision-making and business efficiency.",64.71,0.0
+8,"Cybersecurity is becoming increasingly important as more devices connect to the internet, creating vulnerabilities that hackers can exploit.",88.89,16.67
+9,"Cloud computing provides scalable and flexible IT infrastructure, enabling businesses to store, process, and access data over the internet.",89.47,15.79
+10,"Virtual reality and augmented reality technologies are revolutionizing gaming, education, and remote collaboration by creating immersive experiences.",82.35,-17.65
+11,"Quantum computing has the potential to solve complex problems that are currently infeasible for classical computers, especially in cryptography and optimization.",95.24,61.9
+12,"E-commerce platforms use recommendation engines powered by AI to suggest products, increasing customer engagement and driving sales.",88.24,17.65
+13,"The Internet of Things connects everyday objects to the internet, allowing them to send and receive data to improve efficiency and convenience.",81.82,72.73
+14,"Data privacy regulations, such as GDPR, protect user data by enforcing rules on how personal information can be collected, stored, and shared.",72.73,50.0
+15,"Robotics is advancing rapidly, enabling machines to perform tasks in manufacturing, logistics, and healthcare that previously required human labor.",73.68,89.47
+16,"Deep learning techniques, such as neural networks, are used in image recognition, speech processing, and natural language understanding.",72.22,77.78
+17,"Electric vehicles are becoming more popular due to advancements in battery technology, environmental concerns, and government incentives.",94.12,-5.88
+18,"Social media platforms use AI algorithms to curate content, personalize user feeds, and target advertisements more effectively.",64.71,23.53
+19,"Edge computing processes data near the source of data generation, reducing latency and improving real-time analytics performance.",94.12,5.88
+20,"3D printing technology allows the creation of complex objects layer by layer, revolutionizing manufacturing, prototyping, and medical applications.",77.78,66.67
+21,"Education technology leverages AI and digital tools to personalize learning experiences, track progress, and improve student outcomes.",82.35,47.06
+22,"Healthcare data analytics uses machine learning to predict disease outbreaks, monitor patient health, and optimize hospital resources.",82.35,52.94
+23,"Smart cities integrate IoT devices, data analytics, and AI to improve urban infrastructure, transportation, and energy management.",52.94,-5.88
+24,"Financial technology, or fintech, is transforming banking and payments by enabling faster, cheaper, and more secure financial services.",72.22,66.67
+25,"Climate modeling uses supercomputers and AI to simulate future environmental scenarios, helping policymakers make informed decisions.",56.25,12.5
